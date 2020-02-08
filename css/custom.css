@@ -106,17 +106,17 @@ h2 {
 
 .hello {
     background-color:#d22f23;
-    padding: 13rem 0 5rem 0rem;
+    padding: 21rem 0 16rem 0rem;
     margin: 0rem;
-    background: linear-gradient(
-    -166deg
-    , #fc7158 0%
-    , #d22f23 70% 
-    );
+     background: linear-gradient(
+     -40deg
+     , #fc7158 0%
+     , #d22f23 70% 
+     );
  }
 
  .hello h1 {
-     font-size:3rem;
+     font-size:4rem;
  }
 
  .spacer {
